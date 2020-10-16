@@ -73,5 +73,5 @@ let carouselView3 = CarouselView(CGRect(x: 0, y: 0, width: UIScreen.main.bounds.
 func carouselView(carouselView: CarouselView, didSelectItemAt index: Int) {
         print("\(index)巴拉巴拉")
     }
-```![2.gif](https://upload-images.jianshu.io/upload_images/6333164-7cd8040a50c03623.gif?imageMogr2/auto-orient/strip)
+```
 
