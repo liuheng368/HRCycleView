@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HRCycleView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "用UICollectionView实现的轮播图，带进度条样式"
   s.homepage     = "https://github.com/liuheng368/HRCycleView/"
   s.license      = { :type => "MIT", :file => "LICENSE" }
