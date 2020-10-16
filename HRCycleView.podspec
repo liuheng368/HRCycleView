@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HRCycleView"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "用UICollectionView实现的轮播图，带进度条样式"
   s.homepage     = "https://github.com/liuheng368/HRCycleView/"
   s.license      = { :type => "MIT", :file => "LICENSE" }
@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.source_files  = "Sources"
   s.requires_arc = true
   s.dependency "Kingfisher"
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }
 
 end
